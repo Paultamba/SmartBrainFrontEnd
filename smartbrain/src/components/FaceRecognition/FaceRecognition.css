@@ -1,0 +1,9 @@
+.image_centre{
+    margin: auto;
+    background-color: rgb(147, 138, 138);
+    width: 470px;
+    height: auto;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
